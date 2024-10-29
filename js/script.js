@@ -10,3 +10,4 @@ tusinikteme
 */
 console.log('menin atym Aziz');
 console.log('bul syrtky bailanys');
+console.log('hello world');
